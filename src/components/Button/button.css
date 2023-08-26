@@ -1,0 +1,21 @@
+ .button-style { 
+    /*margin: auto 8px;*/
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    border: none;
+    background: none;
+    padding: 15px;
+}
+
+/*
+.button-style:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    border-color: rgb(255, 255, 255);
+}
+
+.button-style:active{
+    color: rgba(241, 244, 249, 1);
+    background: rgb(255, 255, 255);
+} */
+

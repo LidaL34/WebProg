@@ -1,0 +1,16 @@
+.counter-container {
+    display: flex;
+    border-radius: 100%;
+    width: 115px;
+    height: 115px;
+    background-color: #fff; 
+    align-items: center;
+    justify-content: center;
+    margin: auto 13px;
+}
+
+
+h2 {
+    color: #8A8EFF;
+    font-size: 70px;
+} 
